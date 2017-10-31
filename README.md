@@ -1,3 +1,3 @@
-# Inserting_Responsive_Video
+# Inserting a responsive video
 
-A simple way to insert a video background, totally responsive, by using only HTML5 and CSS3 (object-fit property).
+A simple way to insert a video background, totally responsive, by using only HTML5 (video tag) and CSS3 (object-fit property).
